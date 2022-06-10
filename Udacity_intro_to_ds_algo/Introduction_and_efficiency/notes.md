@@ -41,7 +41,3 @@ def example4(manatees):
                 oldest_manatee = manatee1['name']
     print oldest_manatee
 ```
-
-
-References :
-- [BigOcheatsheet](https://www.bigocheatsheet.com/)
